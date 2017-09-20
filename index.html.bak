@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Sudheesh S</title>
+<link href="css/main_style.css" rel="stylesheet" type="text/css" />
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section --></head>
+
+<body>
+<div class="btn_main_box">
+<div class="btn_main_menu"><div class="img_cnt"><a href="#"><img src="images/menu_icon.png" /></a>
+<div class="btn_dispmsg">
+<p><a href="http://www.google.com">ABOUT ME</a></p>
+<p><a href="http://www.yahoo.com">ONLINE TUTORIALS</a></p>
+<p><a href="http://www.yahoo.com">COMING SOON</a></p>
+<p><a href="http://www.yahoo.com">CONTACT ME</a></p></div>
+</div>
+</div>
+</div>
+<div class="name_block"><div class="name_blocksb">Sudheesh s</div></div>
+<div class="quote_bock"><div class="quote_blocksub"><big>L</big>eading Technology To Live !</div></div>
+<div class="monitor_box"><img src="images/monitor.png" width="700" height="300"  />
+</div>
+<div class="social">Follow Me: <a href="#"><img src="images/fb_logo.png" alt="fb" /></a> <a href="#"><img src="images/twitter_logo.png" alt="fb" /></a> <a href="#"><img src="images/g+_logo.png" alt="fb" /></a> <a href="#"><img src="images/linkin_logo.png" alt="fb" /></a> <a href="#"><img src="images/youtube_logo.png" alt="fb" /></a></div>
+
+<div class="monitor_show">
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+		<li><img src="data1/images/slide1.png" alt="" title="" id="wows1_0"/></li>
+		<li><a href="http://wowslider.net"><img src="data1/images/slides2.png" alt="jquery carousel" title="" id="wows1_1"/></a></li>
+		<li><img src="data1/images/slides3.png" alt="" title="" id="wows1_2"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title=""><span><img src="data1/tooltips/slide1.png" alt=""/>1</span></a>
+		<a href="#" title=""><span><img src="data1/tooltips/slides2.png" alt=""/>2</span></a>
+		<a href="#" title=""><span><img src="data1/tooltips/slides3.png" alt=""/>3</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">wowslideshow</a> by WOWSlider.com v8.7</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	</div>
+</body>
+</html>

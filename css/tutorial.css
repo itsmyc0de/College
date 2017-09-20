@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background:url(../images/site_under_construction.jpg) top center;
+	background-repeat:no-repeat;
+	background-color:#000;
+}
